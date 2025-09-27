@@ -1,13 +1,12 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">.NET Full Stack Developer | Passionate about building scalable apps</h3>
+<h1 align="center">Hi 👋, I'm Shivam Shendge</h1>
+<h3 align="center">.NET Full Stack Developer | Building scalable web applications and learning new technologies</h3>
 
 ---
 
 <!-- About Me Section -->
 ## 🚀 About Me  
 - 💻 I’m a **Full Stack Developer** specializing in **.NET, C#, SQL, and JavaScript frameworks**  
-- 🌱 Currently exploring **Azure Cloud & Microservices**  
 - 🛠️ Love solving problems and writing clean, efficient code  
 - 📫 Reach me at: **shivamshendge777@gmail.com**  
 - ⚡ Fun fact: I debug 3x faster with coffee ☕  
@@ -29,7 +28,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
 
 **Tools & Cloud:**![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 
 ---
@@ -43,8 +41,28 @@
 <!-- Connect -->
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="mailto:shivamshendge777@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shivamshendge777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/shivam-s4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+---
+  ### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-s4&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-s4&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivam-s4&theme=tokyonight)  
+
+
+  ![Visitor Count](https://komarev.com/ghpvc/?username=shivam-s4&color=blue&style=flat)
+
+</p>
+
 <!--
 **shivam-s4/shivam-s4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
