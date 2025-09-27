@@ -50,19 +50,7 @@
 </p>
 
 ---
-  ### 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-s4&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-s4&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivam-s4&theme=tokyonight)  
-
-
-  ![Visitor Count](https://komarev.com/ghpvc/?username=shivam-s4&color=blue&style=flat)
-
-</p>
-
+  
 <!--
 **shivam-s4/shivam-s4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
