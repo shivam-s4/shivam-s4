@@ -39,6 +39,7 @@ Multi-layer ASP.NET Core MVC 8 application with Angular frontend.
 Implemented role-based authentication, CRUD, and file uploads.
 Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap
 
+---
 <!-- Contribution Graph -->
 ## 🌱 Contribution Graph  
 ![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
