@@ -36,16 +36,6 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 - Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap<br/>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivam-s4&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-s4&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-
-</p>
----
 
 ## 📫 Connect with Me
 
