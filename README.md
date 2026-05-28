@@ -28,16 +28,16 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 ---
 ## 📂 Projects
 
-🚚 Transfer Convey – Truck Booking System (May 2024 – Present)
+#🚚 Transfer Convey – Truck Booking System (May 2024 – Present)<br/>
 Developed an online platform connecting shippers, carriers, and drivers for seamless truck booking.<br/>
-Users can search trucks, book transport, track shipments in real-time, and pay securely.
-Admin panel for managing users, trucks, and billing.
-Tools: ASP.NET Core MVC, Web API Core, C#, SQL Server, EF, Bootstrap, JS, Git
+Users can search trucks, book transport, track shipments in real-time, and pay securely.<br/>
+Admin panel for managing users, trucks, and billing.<br/>
+Tools: ASP.NET Core MVC, Web API Core, C#, SQL Server, EF, Bootstrap, JS, Git<br/>
 
-👨‍💼 Employee Management System
-Multi-layer ASP.NET Core MVC 8 application with Angular frontend.
-Implemented role-based authentication, CRUD, and file uploads.
-Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap
+#👨‍💼 Employee Management System<br/>
+Multi-layer ASP.NET Core MVC 8 application with Angular frontend.<br/>
+Implemented role-based authentication, CRUD, and file uploads.<br/>
+Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap<br/>
 
 ---
 <!-- Contribution Graph -->
