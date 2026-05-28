@@ -36,22 +36,21 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 - Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap<br/>
 
 ---
-<!-- Contribution Graph -->
-## 🌱 Contribution Graph  
-![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-<!-- Connect -->
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="mailto:shivamshendge.net@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/shivam-s4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## 📫 Connect with Me
+
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shivamshendge/)
+- 📧 Email: shivamshendge.net@gmail.com
+- 💻 GitHub: [YOUR_USERNAME](https://github.com/shivam-s4)
 
 ---
 ### 👀 Profile Views
