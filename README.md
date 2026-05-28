@@ -8,8 +8,7 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack  
+<!-- Tech Stack --> 
 ## 💻 Tech Stack
 
 ### Backend:
