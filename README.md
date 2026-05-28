@@ -38,17 +38,18 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-s4&show_icons=true&theme=tokyonight" height="180"/>
+p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=shivam-s4&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-s4&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-s4&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+
 </p>
-
 ---
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shivamshendge/)
+- 💼 LinkedIn: [Shivam Shendge](https://www.linkedin.com/in/shivamshendge/)
 - 📧 Email: shivamshendge.net@gmail.com
 - 💻 GitHub: [shivam-s4](https://github.com/shivam-s4) 
 
