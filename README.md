@@ -28,7 +28,7 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 ---
 ## 📂 Projects
 
-##🚚 Transfer Convey – Truck Booking System (May 2024 – Present)<br/>
+**🚚 Transfer Convey – Truck Booking System (May 2024 – Present)**<br/>
 
 Developed an online platform connecting shippers, carriers, and drivers for seamless truck booking.<br/>
 Users can search trucks, book transport, track shipments in real-time, and pay securely.<br/>
