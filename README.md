@@ -48,7 +48,7 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shivamshendge/)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shivamshendge)
 - 📧 Email: shivamshendge.net@gmail.com
 - 💻 GitHub: [shivam-s4](https://github.com/shivam-s4)## 📊 GitHub Stats
 
