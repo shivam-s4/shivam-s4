@@ -10,36 +10,31 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack  
-**Frontend:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+## 💻 Tech Stack
 
-**Backend:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+### Backend:
+- C#, .NET Core, MVC5, ASP.NET Web API, Entity Framework, ADO.NET, SQL Server
 
-**Database:** ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
+### Frontend:
+- Angular, HTML, CSS, JavaScript, Bootstrap
 
-**Tools & Cloud:**![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
-
+### Other Tools:
+- Git, GitHub, RESTful APIs,  Task Automation, Performance Optimization
 ---
 ## 📂 Projects
 
 **🚚 Transfer Convey – Truck Booking System (May 2024 – Present)**<br/>
 
 - Developed an online platform connecting shippers, carriers, and drivers for seamless truck booking.<br/>
--Users can search trucks, book transport, track shipments in real-time, and pay securely.<br/>
--Admin panel for managing users, trucks, and billing.<br/>
--Tools: ASP.NET Core MVC, Web API Core, C#, SQL Server, EF, Bootstrap, JS, Git<br/>
+- Users can search trucks, book transport, track shipments in real-time, and pay securely.<br/>
+- Admin panel for managing users, trucks, and billing.<br/>
+- Tools: ASP.NET Core MVC, Web API Core, C#, SQL Server, EF, Bootstrap, JS, Git<br/>
 
 **👨‍💼 Employee Management System**<br/>
 
--Multi-layer ASP.NET Core MVC 8 application with Angular frontend.<br/>
--Implemented role-based authentication, CRUD, and file uploads.<br/>
--Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap<br/>
+- Multi-layer ASP.NET Core MVC 8 application with Angular frontend.<br/>
+- Implemented role-based authentication, CRUD, and file uploads.<br/>
+- Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap<br/>
 
 ---
 <!-- Contribution Graph -->
