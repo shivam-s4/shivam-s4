@@ -39,9 +39,9 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-s4&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-s4&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -50,7 +50,13 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shivamshendge/)
 - 📧 Email: shivamshendge.net@gmail.com
-- 💻 GitHub: [YOUR_USERNAME](https://github.com/shivam-s4)
+- 💻 GitHub: [shivam-s4](https://github.com/shivam-s4)## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 ### 👀 Profile Views
