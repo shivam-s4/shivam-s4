@@ -1,15 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Shivam Shendge</h1>
-<h3 align="center">.NET Full Stack Developer | Building scalable web applications and learning new technologies</h3>
-
 ---
 
 <!-- About Me Section -->
 ## 🚀 About Me  
-- 💻 I’m a **Full Stack Developer** specializing in **.NET, C#, SQL, and JavaScript frameworks**  
-- 🛠️ Love solving problems and writing clean, efficient code  
-- 📫 Reach me at: **shivamshendge777@gmail.com**  
-- ⚡ Fun fact: I debug 3x faster with coffee ☕  
+I’m an innovative and performance-driven Full Stack Developer with 2 years of experience building scalable web applications using C#, .NET Core, MVC5, Entity Framework, ADO.NET, and SQL Server.
+I specialize in Angular for frontend development, creating dynamic, responsive interfaces, and integrating seamlessly with backend APIs. 
 
 ---
 
@@ -41,7 +37,7 @@
 <!-- Connect -->
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="mailto:shivamshendge777@gmail.com" target="_blank">
+  <a href="mailto:shivamshendge.net@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/shivam-s4" target="_blank">
