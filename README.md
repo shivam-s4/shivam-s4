@@ -30,7 +30,7 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 
 **🚚 Transfer Convey – Truck Booking System (May 2024 – Present)**<br/>
 
--Developed an online platform connecting shippers, carriers, and drivers for seamless truck booking.<br/>
+- Developed an online platform connecting shippers, carriers, and drivers for seamless truck booking.<br/>
 -Users can search trucks, book transport, track shipments in real-time, and pay securely.<br/>
 -Admin panel for managing users, trucks, and billing.<br/>
 -Tools: ASP.NET Core MVC, Web API Core, C#, SQL Server, EF, Bootstrap, JS, Git<br/>
