@@ -1,6 +1,5 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Shivam Shendge</h1>
----
 
 <!-- About Me Section -->
 ## 🚀 About Me  
