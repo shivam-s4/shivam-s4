@@ -26,6 +26,18 @@ I specialize in Angular for frontend development, creating dynamic, responsive i
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 
 ---
+## 📂 Projects
+
+🚚 Transfer Convey – Truck Booking System (May 2024 – Present)
+Developed an online platform connecting shippers, carriers, and drivers for seamless truck booking.
+Users can search trucks, book transport, track shipments in real-time, and pay securely.
+Admin panel for managing users, trucks, and billing.
+Tools: ASP.NET Core MVC, Web API Core, C#, SQL Server, EF, Bootstrap, JS, Git
+
+👨‍💼 Employee Management System
+Multi-layer ASP.NET Core MVC 8 application with Angular frontend.
+Implemented role-based authentication, CRUD, and file uploads.
+Tools: ASP.NET Core MVC 8, Angular, C#, EF, ADO.NET, SQL Server, Bootstrap
 
 <!-- Contribution Graph -->
 ## 🌱 Contribution Graph  
